@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Carlos
-- 👀 Meus hobbies envolvem me atualizar em relação ao crescimento tecnológico atual
-- 🌱 No momento estou estudando mais sobre ambientes Windows Server e programando em angular com uso do Springboot
-- 💞️ Estou buscando criar alguns projetos que sirvam pra abstrair sistemas (permitindo que inicie aplicações com base em reaproveitamento de código)
+- 🏓 Meus hobbies envolvem me atualizar em relação ao crescimento tecnológico atual
+- 📚 No momento estou estudando mais sobre ambientes Windows Server e programando em angular com uso do Springboot
+- 🤔 Estou buscando criar alguns projetos que sirvam pra abstrair sistemas (permitindo que inicie aplicações com base em reaproveitamento de código)
 - 📫 Pode me encontrar em https://www.linkedin.com/in/carlos-eduardo-16ba25181/
 
 <!---
