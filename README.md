@@ -7,4 +7,4 @@
   
 </div>
 <a href='https://www.linkedin.com/in/carlos-eduardo-16ba25181'>- 📫 Pode me encontrar aqui! </a>
-
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
