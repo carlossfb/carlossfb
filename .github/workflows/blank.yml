@@ -1,5 +1,5 @@
 # Nome da Actions:  
-#name: Snake Game
+name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: carlossfb
+          github_user_name: carlossfb #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
