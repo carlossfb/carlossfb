@@ -1,5 +1,7 @@
-## Olá, meu nome é Carlos Eduardo
-também ama programar :D ? Somos dois!
+
+# Carlos Eduardo
+
+Técnico em informática pelo Centro Paula Souza, estudando Ánalise e Desenvolvimento de Sistemas pela UNICID.
 
 <div align="center">
   <a href="https://github.com/carlossfb">
@@ -17,12 +19,16 @@ também ama programar :D ? Somos dois!
   <img align="center" alt="carlos-sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='50em'/>
 </div>
 
-## 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-16ba25181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-  
- 
-  
-📫 carloseduardofreireb@gmail.com
+## Stack utilizada
+
+**Front-end:** HTML5, CSS3
+
+**Back-end:** PHP, Java (Spring), Mysql
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossfb/) 
+
+carloseduardofreireb@gmail.com
+
+
  ![snake gif](https://github.com/carlossfb/carlossfb/blob/output/github-contribution-grid-snake.svg)
