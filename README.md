@@ -21,9 +21,9 @@ Técnico em informática pelo Centro Paula Souza, estudando Ánalise e Desenvolv
 
 ## Stack utilizada
 
-**Front-end:** HTML5, CSS3
+**Front-end:** HTML5, CSS3, JS
 
-**Back-end:** PHP, Java (Spring), Mysql
+**Back-end:** PHP, Java (Spring), MySQL, PostgreSQL
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossfb/) 
