@@ -23,7 +23,7 @@ Técnico em informática pelo Centro Paula Souza, estudando Ánalise e Desenvolv
 
 **Front-end:** HTML5, CSS3, JS
 
-**Back-end:** PHP, Java (Spring), MySQL, PostgreSQL
+**Back-end:** Java (Spring), PHP, MySQL, PostgreSQL
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossfb/) 
