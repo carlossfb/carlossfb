@@ -16,14 +16,11 @@ Técnico em informática pelo Centro Paula Souza, estudando Ánalise e Desenvolv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='60em' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='60em' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width='60em' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width='60em'/>
-          
-              
-          
-  <img align="center" alt="carlos-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width='40em'/>
-  <img align="center" alt="carlos-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='40em'/>
-  <img align="center" alt="carlos-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='50em'/>
-  <img align="center" alt="carlos-sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='50em'/>
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width='80em'/>    -->    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width='80em'/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width='80em' />
+   
 </div>
 
 ## Stack utilizada
