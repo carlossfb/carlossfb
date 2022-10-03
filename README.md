@@ -19,7 +19,6 @@ Técnico em informática pelo Centro Paula Souza, estudando Ánalise e Desenvolv
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width='80em'/>    -->    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width='80em'/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width='80em' />
    
 </div>
 
