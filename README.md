@@ -2,7 +2,7 @@
 # Carlos Eduardo F.B
 
 Técnico em informática pelo Centro Paula Souza, estudando Ánalise e Desenvolvimento de Sistemas pela UNICID.
-
+[![teste's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossfb)](https://github.com/carlossfb/github-readme-stats)
   <div align="center">
   <a href="https://github.com/carlossfb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossfb&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
