@@ -17,11 +17,11 @@
    
 </div>
 
-## Stack utilizada
+## Stack
 
 **Front-end:** HTML5, CSS3, JS
 
-**Back-end:** Java (Spring), PHP, MySQL, PostgreSQL
+**Back-end:** Java (Spring), MySQL, PostgreSQL
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossfb/) 
