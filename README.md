@@ -23,7 +23,7 @@ Seja bem-vindo ao meu portifólio!
 #### Social
 
   <a href="https://www.linkedin.com/in/carlossfb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4c89f8&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=a89661&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin"  />
   </a>
   
 #### Tools
