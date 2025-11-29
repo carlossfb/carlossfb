@@ -37,7 +37,7 @@ Seja bem-vindo ao meu portifólio!
 #### Main Stack
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
-![Java](https://img.shields.io/badge/Java-Spring-4c89f8?style=for-the-badge&labelColor=000)
+![Java](https://img.shields.io/badge/Java-Spring-a89661?style=for-the-badge&labelColor=000)
 
 
 
