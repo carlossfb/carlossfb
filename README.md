@@ -4,11 +4,6 @@ Cloud & DevOps Engineer, com foco em governança de nuvem, infraestrutura como c
 
 Atuo em ambiente híbrido (on-premises + AWS), conduzindo iniciativas de adoção de nuvem baseadas no AWS Cloud Adoption Framework (CAF), além de projetos pessoais em Terraform, observabilidade e desenvolvimento .NET.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossfb&count_private=true&show_icons=true&theme=default&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossfb&langs_count=7&theme=default&layout=compact"/>
-</div>
-
 #### Social
 
 <a href="https://www.linkedin.com/in/carlossfb/" target="_blank">
